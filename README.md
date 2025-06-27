@@ -1,12 +1,14 @@
 Hi👋 
 
 # Repos 
-## 🔋 Fuely
-`Python` `React`
+## 🔋 Fuely &nbsp; `Web development` `API`
+`Python` `Flask` `React` `SQLite`
 
 A webpage that collects prices from Danish fuel vendors. The backend is mainly built on plain Python and deployed with Flask. The project is not currently hosted anywhere, but have been tested on AWS. Suggestion would be to setup a cron job (Eventbridge) on the update of the db. 
 
-## 🌧️ ScandinavianWeatherIsSad (SWIS)
+## 🌧️ ScandinavianWeatherIsSad (SWIS) &nbsp; `Data pipeline` 
+`Python` `PySpark` `Delta` `JSON`
+
 _TBD_
 
 # Working areas
