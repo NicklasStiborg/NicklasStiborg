@@ -9,7 +9,7 @@ A webpage that collects prices from Danish fuel vendors. The backend is mainly b
 ## 🌧️ [ScandinavianWeatherIsSad (SWIS)](https://github.com/NicklasStiborg/ScandinavianWeatherIsSad-SWIS-) &nbsp; `Data pipeline` 
 `Python` `PySpark` `Parquet` `JSON` `PostgreSQL` `dbt` `duckDB`
 
-SWIS gathers data from the [Norwegian](https://frost.met.no) and [Danish](https://www.dmi.dk) meteorological institutes into a medallion data structure.
+SWIS gathers data from the [Norwegian](https://frost.met.no) and [Danish](https://www.dmi.dk) meteorological institutes into a medallion data architecture. A thourough README file explains in detail the techstack.
 
 # Working areas
 `Project management` `Product ownership` `Agile leadership` `Data engineering`
