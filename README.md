@@ -7,7 +7,7 @@ Hi👋
 A webpage that collects prices from Danish fuel vendors. The backend is mainly built on plain Python and deployed with Flask. The project is not currently hosted anywhere, but has been tested on AWS. Suggestion would be to setup a cron job (e.g. Eventbridge) on the update of the db. 
 
 ## 🌧️ ScandinavianWeatherIsSad (SWIS) &nbsp; `Data pipeline` 
-`Python` `PySpark` `Parquet` `JSON` `SQL`
+`Python` `PySpark` `Parquet` `JSON` `PostgreSQL` `dbt` `duckDB`
 
 SWIS gathers data from the [Norwegian](https://frost.met.no) and [Danish](https://www.dmi.dk) meteorological institutes into a medallion data structure.
 
