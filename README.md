@@ -1,6 +1,6 @@
 Hi👋 
 
-# Repos 
+# 🖼️ Repos 
 ## 🔋 [Fuely](https://github.com/NicklasStiborg/Fuely) &nbsp; `Web development` `API`
 `Python` `Flask` `React` `SQLite`
 
@@ -11,7 +11,7 @@ A webpage that collects prices from Danish fuel vendors. The backend is mainly b
 
 SWIS gathers data from the [Norwegian](https://frost.met.no) and [Danish](https://www.dmi.dk) meteorological institutes into a medallion data architecture. A thorough README-file explains in detail the techstack.
 
-# Working areas
+# 🛠️ Working areas
 `Project management` `Product ownership` `Agile leadership` `Data engineering`
 
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/nist361295/)
